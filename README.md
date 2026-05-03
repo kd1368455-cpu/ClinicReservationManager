@@ -16,7 +16,7 @@ Javaで作成した医療クリニック向け予約管理システムです。�
 - CSVファイルへの保存
 - CSVファイルからの読み込み
 
-  ## プロジェクト構成
+## プロジェクト構成
 ClinicReservationManager/
 ├─ src/
 │   └─ main/
